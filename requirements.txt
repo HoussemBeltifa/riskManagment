@@ -1,6 +1,5 @@
 streamlit-aggrid
 streamlit_option_menu
-streamlit.components.v1
 pandas
 streamlit
 plotly
