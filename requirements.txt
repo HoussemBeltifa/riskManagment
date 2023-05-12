@@ -1,5 +1,7 @@
 streamlit-aggrid
 streamlit_option_menu
+matplotlib
+pybase64
 pandas
 streamlit
 plotly
